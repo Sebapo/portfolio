@@ -31,11 +31,11 @@ const Contact = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <Mail className="w-6 h-6 text-blue-500 mr-4" />
-                <span>contact@francissebapo.com</span>
+                <span></span>
               </div>
               <div className="flex items-center">
                 <Phone className="w-6 h-6 text-blue-500 mr-4" />
-                <span>+1 (555) 123-4567</span>
+                <span></span>
               </div>
               <div className="flex items-center">
                 <MapPin className="w-6 h-6 text-blue-500 mr-4" />
